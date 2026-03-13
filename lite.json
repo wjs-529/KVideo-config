@@ -112,6 +112,14 @@
     "priority": 5
   },
   {
+    "id": "dytt",
+    "name": "🎬电影天堂",
+    "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "maoyan",
     "name": "🎬猫眼资源",
     "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -155,6 +163,22 @@
     "id": "uku",
     "name": "🎬U酷影视",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "modudm",
+    "name": "🎬魔都动漫",
+    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "ryzy",
+    "name": "🎬如意资源",
+    "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
