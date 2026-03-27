@@ -184,6 +184,14 @@
     "priority": 5
   },
   {
+    "id": "madou",
+    "name": "🔞麻豆视频",
+    "baseUrl": "https://91md.me/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "alvin",
     "name": "🔞--AIvin-",
     "baseUrl": "http://lbapiby.com/api.php/provide/vod",
@@ -352,20 +360,12 @@
     "priority": 5
   },
   {
-    "id": "madou",
-    "name": "🔞麻豆视频",
-    "baseUrl": "https://91md.me/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "doudou",
     "name": "🔞豆豆资源",
     "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "超时/宕机"
   },
   {
@@ -374,7 +374,7 @@
     "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "搜索无结果"
   },
   {
@@ -383,7 +383,7 @@
     "baseUrl": "https://www.yyzywcj.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "搜索无结果"
   },
   {
@@ -392,7 +392,7 @@
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "搜索无结果"
   },
   {
@@ -401,7 +401,7 @@
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "搜索无结果"
   },
   {
@@ -410,7 +410,7 @@
     "baseUrl": "https://www.kxgav.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "搜索无结果"
   },
   {
